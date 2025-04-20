@@ -1,0 +1,14 @@
+[
+  {
+    "name": "phone",
+    "category": "elec",
+    "quantity": 1,
+    "price": 30000
+  },
+  {
+    "name": "laptop",
+    "category": "elec",
+    "quantity": 1,
+    "price": 60000
+  }
+]
